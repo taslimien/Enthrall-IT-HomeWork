@@ -17,7 +17,7 @@ public class MySelf {
 		System.out.println("349 Kirks Lane");
 		System.out.println("Drexel Hill, Pennsylvania, 19026");
 		
-		System.out.println("\"EnthrallIT\"");
+		System.out.println("\'EnthrallIT\'");
 	}
 
 }

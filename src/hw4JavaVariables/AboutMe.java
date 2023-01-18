@@ -1,4 +1,4 @@
-package hw4Java_Variables;
+package hw4JavaVariables;
 
 public class AboutMe {
 

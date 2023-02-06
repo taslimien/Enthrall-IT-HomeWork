@@ -16,8 +16,6 @@ public class Computer {
 
 	public void computer() {
 		System.out.println("My Brand Name: " + brandName + "\nModel Name: " + modelName + "\nOperating System:"
-				+ operatingSystem + "\nPrice: " + price + "\nGrade: " + grade + "\nMade in the USA? Ans: " + madeInUsa
-				+ "\nMy Configuration: \nOS X 10.8 or later." + "\n2GB of memory."
-				+ "\n12.5GB of available storage (OS X El Capitan 10.11.5 or later).");
+				+ operatingSystem + "\nPrice: " + price + "\nGrade: " + grade + "\nMade in the USA? Ans: " + madeInUsa);
 	}
 }
